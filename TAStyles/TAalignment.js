@@ -1,0 +1,9 @@
+export const inputBorderRadius=45;
+export const inputHeight=48;
+export const inputFontSize=18;
+export const headingFontSize=27;
+export const videoHeadingFontSize=18;
+export const videoSubjectFontSize=14;
+export const videoViewFontSize=13;
+export const videoNameFontSize=14;
+export const videoDateFontSize=13;
